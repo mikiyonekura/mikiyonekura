@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=mikiyonekura&count_private=true&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikiyonekura&exclude_repo=searchSATD-underCode,acceleration_move_detect,MySatdDetector,api-chervil-hp,chat-gpt-line&layout=compact&show_icons=true&theme=dracula"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikiyonekura&exclude_repo=searchSATD-underCode,acceleration_move_detect,MySatdDetector,api-chervil-hp,chat-gpt-line,project_ex,server-cicd,roboco-server&layout=compact&show_icons=true&theme=dracula"/>
 </a>
 
 
