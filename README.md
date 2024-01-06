@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikiyonekura&show_icons=true&theme=dracula&hide_progress=true&hide=HTML,CSS,PowerShell,shell,Roff,Procfile&langs_count=8"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikiyonekura&show_icons=true&theme=dracula&hide_progress=true&hide=cthon,HTML,CSS,PowerShell,shell,Roff,Procfile&langs_count=8"/>
 </a>
 
 
